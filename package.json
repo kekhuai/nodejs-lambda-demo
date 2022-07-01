@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-lambda-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kekhuay/nodejs-lambda-demo",
+  "license": "MIT",
+  "type": "module"
+}
